@@ -1,3 +1,5 @@
+Modified Exp bar, now show rested bubbles
+
 # How to install
 
 1. [Download](https://github.com/mrrosh/Bongos/archive/refs/heads/main.zip) the archive.
